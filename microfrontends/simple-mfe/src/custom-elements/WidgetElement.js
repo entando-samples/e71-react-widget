@@ -1,6 +1,7 @@
+import './public-path';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';
+import App from '../App';
 
 class WidgetElement extends HTMLElement {
     connectedCallback() {

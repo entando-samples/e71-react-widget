@@ -12,3 +12,7 @@ The project contains a very simple MFE (simple-mfe) for Entando 7.1
 4. ent bundle install
 
 See https://developer.entando.com for more information.
+
+## History
+v0.0.1 Basic React MFE
+v0.0.2 Add publicpath config to handle static assets in Entando 
